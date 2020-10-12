@@ -1,18 +1,3 @@
-# dayadanvue
+# 参考文档
 
-> this a dayadan 
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+# https://www.cnblogs.com/yingzi1028/p/6925387.html
